@@ -28,7 +28,7 @@ module.exports.run = async function ({ api, event }) {
  body:
 `🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟
 
-👑 𝗡𝗮𝗺𝗲: Shahadat Islam😘
+👑 𝗡𝗮𝗺𝗲: 𝙰𝚁𝙸𝚈𝙰𝙽 𝙴𝚅𝙰𝙽😘
 😻 𝗔𝗱𝗱𝗿𝗲𝘀𝘀: মেয়েদের মনে🙈
 💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻: মেয়েদের মন জয় করা😍
 
